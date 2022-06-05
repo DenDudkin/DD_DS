@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/DenDudkin/DD_DS/blob/main/guess-number-task/.README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/DenDudkin/DD_DS/blob/main/guess-number-task/.README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/DenDudkin/DD_DS/blob/main/guess-number-task/.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/DenDudkin/DD_DS/blob/main/guess-number-task/.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/DenDudkin/DD_DS/blob/main/guess-number-task/.README.md#Этапы-работы-над-проектом)  
