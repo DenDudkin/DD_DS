@@ -23,3 +23,15 @@ print(root(81))
 print(root(81))
 print(root(81))
 print(root(81))
+
+
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.rulers": [
+        72,
+        79
+    ]
+}
